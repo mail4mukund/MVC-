@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5Ydmjo/xLQ02TcGIXxv7O0vKD3mRNgtJxia3hAAd6vPa+pzYZxLezEdOe4YjyZociAuF2i1atMP75SEA+BK0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AIO\\OneDrive - Traversia Technology Pvt. Ltd\\MVC-\\B2E_Data_API\\B2E_Data_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AIO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AIO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AIO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\AIO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\AIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\AIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
